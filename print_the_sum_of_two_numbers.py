@@ -6,4 +6,4 @@ second_num = int(input("Enter the second number: "))
 
 #adding the two numbers
 total_sum = first_num + second_num
-print("The sum of two numbers are equal to:", total_sum)
+print("The sum of two numbers is equal to: ", total_sum)
