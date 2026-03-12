@@ -1,4 +1,4 @@
-#batch1_no5
+#batch1_no4
 #input1
 first_num = int(input("Enter the first number: "))
 #input2
