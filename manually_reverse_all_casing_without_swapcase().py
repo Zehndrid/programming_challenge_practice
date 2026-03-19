@@ -1,4 +1,4 @@
-#batch6_no7
+#batch6_no8
 user_string = input("Enter a string in mixed casing: ")
 result_string = ""
 
